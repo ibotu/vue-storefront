@@ -66,7 +66,7 @@
     "jsonfile": "^4.0.0",
     "memory-fs": "^0.4.1",
     "mkdirp": "^0.5.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^9.0.0",
     "phantomjs-prebuilt": "^2.1.10",
     "postcss-flexbugs-fixes": "^3.3.1",
     "postcss-loader": "^2.1.5",
@@ -82,7 +82,7 @@
     "vue-template-compiler": "^2.6.6",
     "webpack": "^4.25.1",
     "webpack-cli": "^3.1.2",
-    "webpack-dev-middleware": "^3.4.0",
+    "webpack-dev-middleware": "^7.4.2",
     "webpack-hot-middleware": "^2.24.3",
     "webpack-merge": "^4.1.4"
   },
